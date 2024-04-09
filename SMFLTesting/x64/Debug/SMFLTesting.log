@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\tanne\OneDrive\Documents\Visual Studio 2022\Projects\SMFLTesting\SMFLTesting\verlet.hpp(57,22): warning C4267: 'return': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\tanne\OneDrive\Documents\Visual Studio 2022\Projects\SMFLTesting\SMFLTesting\main.cpp(43,37): warning C4244: 'initializing': conversion from 'float' to 'uint32_t', possible loss of data
+  verlet.hpp
+C:\Users\tanne\OneDrive\Documents\Visual Studio 2022\Projects\SMFLTesting\SMFLTesting\verlet.hpp(57,22): warning C4267: 'return': conversion from 'size_t' to 'uint32_t', possible loss of data
+  Generating Code...
+  SMFLTesting.vcxproj -> C:\Users\tanne\OneDrive\Documents\Visual Studio 2022\Projects\SMFLTesting\x64\Debug\SMFLTesting.exe
